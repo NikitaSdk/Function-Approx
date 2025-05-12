@@ -67,7 +67,7 @@ void train_and_test(const std::string& train_file,
     for (unsigned int i = 1; i <= 3000; ++i) {
         float mse = ann.train_epoch(data);
         if (i % 500 == 0 || i == 1 || i == 3000)
-            std::cout << "Epoch " << i << ", MSE = " << mse << std::endl;
+            std::cout << "Iter " << i << ", MSE = " << mse << std::endl;
     }
 
     ann.save(model_file);

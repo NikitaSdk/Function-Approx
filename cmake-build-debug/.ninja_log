@@ -29,3 +29,11 @@
 412	1427	7687090459899671	CMakeFiles/CodeForTest2WithC.dir/main.cpp.obj	50c3986b51fcf556
 414	2261	7687090459929674	CMakeFiles/CodeForTest2WithC.dir/trainer.cpp.obj	d6af5e82d17fc4e2
 2261	2501	7687090478393929	CodeForTest2WithC.exe	5f3c9315cdf11225
+2	429	7687682275349387	CMakeFiles/CodeForTest2WithC.dir/trainer.cpp.obj.ddi	d7fe72758a57b9a9
+429	501	7687682279623876	CMakeFiles/CodeForTest2WithC.dir/CXX.dd	a0313e0fd570c1dd
+429	501	7687682279623876	C:/Users/user/CLionProjects/CodeForTest2WithC/cmake-build-debug/CMakeFiles/CodeForTest2WithC.dir/CXXModules.json	a0313e0fd570c1dd
+429	501	7687682279623876	CMakeFiles/CodeForTest2WithC.dir/main.cpp.obj.modmap	a0313e0fd570c1dd
+429	501	7687682279623876	CMakeFiles/CodeForTest2WithC.dir/gen_data.cpp.obj.modmap	a0313e0fd570c1dd
+429	501	7687682279623876	CMakeFiles/CodeForTest2WithC.dir/trainer.cpp.obj.modmap	a0313e0fd570c1dd
+502	2302	7687682280353884	CMakeFiles/CodeForTest2WithC.dir/trainer.cpp.obj	d6af5e82d17fc4e2
+2302	2516	7687682298347190	CodeForTest2WithC.exe	5f3c9315cdf11225
