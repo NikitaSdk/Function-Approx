@@ -1,0 +1,7 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles\CodeForTest2WithC.dir\main.cpp.obj: dyndep
+
+build CMakeFiles\CodeForTest2WithC.dir\gen_data.cpp.obj: dyndep
+
+build CMakeFiles\CodeForTest2WithC.dir\trainer.cpp.obj: dyndep
+

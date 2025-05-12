@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\CodeForTest2WithC.dir\\trainer.cpp.obj",
+            "outputs": [
+                "C:\\Users\\user\\CLionProjects\\CodeForTest2WithC\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\CodeForTest2WithC.dir\\trainer.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
